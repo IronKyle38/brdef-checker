@@ -35,7 +35,7 @@ The purpose of this project, **brdef-checker**, is to provide a simple tool to c
 
 ## Installation
 
-1. Install [Node.js](https://nodejs.org/en/download/prebuilt-binaries)
+1. Install [Node.js](https://nodejs.org/en/download/prebuilt-installer)
 
 2. Clone the repository
     
