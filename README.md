@@ -30,7 +30,7 @@
 
 ## Introduction
 
-This is 
+The purpose of this project, **brdef-checker**, is to provide a simple tool to check if a Blu-ray disc stored in a [My Movies](https://www.mymovies.dk/products/) collection is defective. It uses the [Bluraydefectueux.com (BRDEF)](https://bluraydefectueux.com/index-des-blu-ray-defectueux/) database to verify the disc's condition by comparing the barcodes from the user's collection against the known defective items listed in the BRDEF database. This helps users identify easily potentially defective Blu-ray discs in their collection.
 
 ## Installation
 
@@ -80,6 +80,10 @@ To function correctly, the user must have an archive in .XML format of their Blu
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Disclaimer
+
+I am not affiliated with [Binnerup Consult](https://www.mymovies.dk/about.aspx) (the company behind [My Movies](https://www.mymovies.dk/home.aspx)) or [Bluraydefectueux.com](https://bluraydefectueux.com/).
 
 ## License
 
