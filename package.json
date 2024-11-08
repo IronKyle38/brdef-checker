@@ -1,0 +1,29 @@
+{
+  "name": "brdef-checker",
+  "version": "1.0.0",
+  "description": "A simple tool to check if a Blu-ray disc stored in a My Movies collection is defective. It uses the BRDEF database to verify the disc's condition.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IronKyle38/brdef-checker.git"
+  },
+  "keywords": [
+    "blu-ray",
+    "brdef",
+    "defective",
+    "my-movies"
+  ],
+  "author": "IronKyle38",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IronKyle38/brdef-checker/issues"
+  },
+  "homepage": "https://github.com/IronKyle38/brdef-checker#readme",
+  "dependencies": {
+    "cli-progress": "3.12.0",
+    "xml2js": "0.6.2"
+  }
+}
