@@ -73,7 +73,7 @@ To function correctly, the user must have an archive in .XML format of their Blu
 2. Run the script to process the XML file:
 
     ```bash
-    node start
+    npm start
     ```
 
 3. The script will output the results to the console.
